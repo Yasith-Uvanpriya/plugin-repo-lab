@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sample Plugin",
+    "name": "Modified Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
@@ -8,3 +8,4 @@
     "entry": "./plugins/yasith-plugin/plugin.js"
   }
 ]
+
