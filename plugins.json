@@ -2,10 +2,5 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
-  },
-  {
-    "name": "Yasith's Plugin",
-    "entry": "./plugins/yasith-plugin/plugin.js"
   }
 ]
-
