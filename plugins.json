@@ -4,7 +4,7 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
-    "name": "Yasith's Plugin",
+    "name": "Yasith's Plugin v1",
     "entry": "./plugins/yasith-plugin/plugin.js"
   }
 ]
