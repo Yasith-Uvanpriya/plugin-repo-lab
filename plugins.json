@@ -1,11 +1,6 @@
-[
-  {
-    "name": "Modified Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
-  },
-  {
-    "name": "Yasith's Awesome Plugin",
-    "entry": "./plugins/yasith-plugin/plugin.js"
-  }
-]
-
+{
+  "plugins": [
+    "plugins/other-plugin/plugin.js",
+    "plugins/yasith-plugin/plugin.js"
+  ]
+}
